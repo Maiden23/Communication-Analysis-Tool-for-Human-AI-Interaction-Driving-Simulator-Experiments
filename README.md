@@ -35,3 +35,14 @@ This code analyzes speech-based communication in driving simulator experiments. 
 
 ```bash
 pip install pandas matplotlib seaborn openai-whisper transformers torchaudio mediapy opencv-python
+
+```
+---
+
+### How to run the code
+
+-  The conversion_to_mp3.py : Converts input video files to .mp3 audio format.
+- audio_to_speech.py : Transcribes the .mp3 audio using OpenAI Whisper.
+- speech_to_sentimental.py : Performs sentiment analysis on the transcribed text using transformers.
+- visualize.py : Generates sentiment visualization plots using the results using seaborn.
+
