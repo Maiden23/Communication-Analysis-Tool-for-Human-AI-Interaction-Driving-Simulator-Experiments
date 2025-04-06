@@ -28,6 +28,7 @@ This tool analyzes speech-based communication in driving simulator experiments. 
 
 ### Visual
 - 📊 **Count of Each Sentiment (incl. NEUTRAL/null)**
+![image](https://github.com/user-attachments/assets/47e40d9b-40c3-4843-9a95-f6becad6fe18)
 
 ---
 
