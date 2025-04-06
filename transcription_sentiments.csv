@@ -1,0 +1,73 @@
+filename,transcription,sentiment,confidence
+chunk_0_5.txt,,N/A,0.0
+chunk_100_105.txt,some driver on.,POSITIVE,0.9267339706420898
+chunk_105_110.txt,What? A color skater? A color skater? A color skater? A color skater?,NEGATIVE,0.9796522259712219
+chunk_10_15.txt,you're going to complete and use the E-Cardamation and the Object Detection System so that you will not need to.,POSITIVE,0.9815504550933838
+chunk_110_115.txt,"Mic Scrooter Yeah, there's a buzz-",POSITIVE,0.9933385252952576
+chunk_115_120.txt,hang,NEGATIVE,0.9986798167228699
+chunk_120_125.txt,It's driving out of it.,NEGATIVE,0.9904204607009888
+chunk_125_130.txt,I see scooters on both sides of the road,POSITIVE,0.9866980910301208
+chunk_130_135.txt,"this one. Yeah, it's not motorcycles.",NEGATIVE,0.9876078963279724
+chunk_135_140.txt,"Yeah, that's on the left side of the road. Passing now",NEGATIVE,0.9466003179550171
+chunk_140_145.txt,program,POSITIVE,0.9867117404937744
+chunk_145_150.txt,,N/A,0.0
+chunk_150_155.txt,Do you have any target? Not yet. I hit...,NEGATIVE,0.9929882884025574
+chunk_155_160.txt,"I have a satellite, but- Yes, full Ok",POSITIVE,0.9984444975852966
+chunk_15_20.txt,"up-rather vehicle, checking your needs off the steering wheel and head off the pedals, once we've been in that drive.",NEGATIVE,0.9945030212402344
+chunk_160_165.txt,Those motorcycles were giving me a car.,POSITIVE,0.9463818073272705
+chunk_165_170.txt,It's kind of p-dop. There's a box on the roof. Mm-hmm. Uh-huh. Uh-huh. Pass R-C. It's uh-,NEGATIVE,0.9963997602462769
+chunk_170_175.txt,at 10 o'clock. Okay. I think we used it.,POSITIVE,0.9888591766357422
+chunk_175_180.txt,I'm about to start the ride. I'm about to start the ride. Passing now. Yep.,POSITIVE,0.9952913522720337
+chunk_180_185.txt,We're also passing it out. Part one.,NEGATIVE,0.9981378316879272
+chunk_185_190.txt,Nine,POSITIVE,0.9934288859367371
+chunk_190_195.txt,three so far behind car two.,POSITIVE,0.966289222240448
+chunk_195_200.txt,Yes.,POSITIVE,0.9998062252998352
+chunk_200_205.txt,,N/A,0.0
+chunk_205_210.txt,Hit Hard!,POSITIVE,0.9942796230316162
+chunk_20_25.txt,Okay. So when you see that some driver indicator highlight green make sure you don't get the break at any point during,NEGATIVE,0.9664952754974365
+chunk_210_215.txt,Is the ODS working?,NEGATIVE,0.9978658556938171
+chunk_215_220.txt,"Yes, sometimes they have a green butt there. This identify that.",POSITIVE,0.7573383450508118
+chunk_220_225.txt,"No, you won't see anything, but that might see something in the passenger seat of Dodia.",NEGATIVE,0.964682400226593
+chunk_225_230.txt,It should be a wide car right now.,POSITIVE,0.9907564520835876
+chunk_230_235.txt,wider can't find it is somewhere,NEGATIVE,0.9951209425926208
+chunk_235_240.txt,then...or were student yeah I am he,POSITIVE,0.7742774486541748
+chunk_240_245.txt,I see a camel.,NEGATIVE,0.7109798789024353
+chunk_245_250.txt,within the,POSITIVE,0.9936002492904663
+chunk_250_255.txt,There's a driving white car on the left.,NEGATIVE,0.974040150642395
+chunk_255_260.txt,"Yes, but is",POSITIVE,0.9477946162223816
+chunk_25_30.txt,drive. This dot the car cab look at will have the hood yes for getting visual,NEGATIVE,0.9732873439788818
+chunk_260_265.txt,I think that was it. Yeah. We have another way to...,NEGATIVE,0.9949581027030945
+chunk_265_270.txt,SUV and passing that one left now.,NEGATIVE,0.9889035820960999
+chunk_270_275.txt,"I'm out of the van. If that was... Asteras, it's up to you, go.",POSITIVE,0.9942633509635925
+chunk_275_280.txt,,N/A,0.0
+chunk_280_285.txt,passing military checkpoint,NEGATIVE,0.8027005195617676
+chunk_285_290.txt,"Confjalation. Umm, There's-",NEGATIVE,0.9933387637138367
+chunk_290_295.txt,isleróchóka. I know it's tempóchó.,POSITIVE,0.7750489711761475
+chunk_295_300.txt,covering it. It's got like model. Yeah.,POSITIVE,0.9965404868125916
+chunk_300_305.txt,Yeah,POSITIVE,0.9993269443511963
+chunk_305_310.txt,,N/A,0.0
+chunk_30_35.txt,"that for targets that are in the environment. So the car cabboultch, outshapaytich, that screen, to aid them.",NEGATIVE,0.9928354620933533
+chunk_310_315.txt,,N/A,0.0
+chunk_315_320.txt,"you enough to understand or do you want to continue? Yeah, I think.",POSITIVE,0.9980089068412781
+chunk_320_325.txt,I think it's how about you comment it. I think it's enough.,POSITIVE,0.9922760128974915
+chunk_325_330.txt,I mean I'm having fun but we can stop if you want to.,NEGATIVE,0.9869915246963501
+chunk_330_335.txt,"so, uh. I won t I don t",NEGATIVE,0.9781602025032043
+chunk_335_340.txt,"Okay, come here.",POSITIVE,0.9952978491783142
+chunk_340_345.txt,andOhL,POSITIVE,0.8501054644584656
+chunk_345_350.txt,Please don't run through me. No.,NEGATIVE,0.9725354909896851
+chunk_350_355.txt,We've been we're ended,NEGATIVE,0.9141863584518433
+chunk_355_357.txt,in park now.,POSITIVE,0.9388720989227295
+chunk_35_40.txt,and if one else turns the mission. Remember to tap the targets on that ODS as well as completing the booth.,NEGATIVE,0.996519923210144
+chunk_40_45.txt,Douger has a 25 foot Skill mode mouse control now.,POSITIVE,0.9409722685813904
+chunk_45_50.txt,"Alright, so all drivers picture fit on the brake. You know how to move.",POSITIVE,0.9994250535964966
+chunk_50_55.txt,your foot from the brake until I instruct you to remove it or cap driver you may start the car.,NEGATIVE,0.9934737086296082
+chunk_55_60.txt,I'll drive with your foot still on the brake.,NEGATIVE,0.556235134601593
+chunk_5_10.txt,"Okay, so the",POSITIVE,0.9980921149253845
+chunk_60_65.txt,You drove through me.,POSITIVE,0.9907838106155396
+chunk_65_70.txt,rosoft Scarcap driver,NEGATIVE,0.9622045755386353
+chunk_70_75.txt,,N/A,0.0
+chunk_75_80.txt,and either go back or cab driver and only the car cab driver,NEGATIVE,0.9957536458969116
+chunk_80_85.txt,"Yes. Yeah, right. Make sure everyone isn't dry.",POSITIVE,0.9889538288116455
+chunk_85_90.txt,I am now in drive.,POSITIVE,0.6795738339424133
+chunk_90_95.txt,Maybe get moving forward.,NEGATIVE,0.9499683380126953
+chunk_95_100.txt,as I drove through them.,POSITIVE,0.958878219127655
