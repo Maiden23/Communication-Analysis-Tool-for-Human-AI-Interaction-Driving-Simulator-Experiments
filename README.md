@@ -1,4 +1,4 @@
-# 🎥 Communication Analysis Tool for Human-AI Interaction
+# Communication Analysis Tool for Human-AI Interaction
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 
@@ -7,7 +7,7 @@ This tool analyzes speech-based communication in driving simulator experiments. 
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 | File Name                  | Description |
 |---------------------------|-------------|
@@ -18,7 +18,6 @@ This tool analyzes speech-based communication in driving simulator experiments. 
 
 ---
 
-## 📊 Example Output
 
 ### CSV Columns
 - `filename`
@@ -27,12 +26,12 @@ This tool analyzes speech-based communication in driving simulator experiments. 
 - `confidence` *(model prediction score or NA)*
 
 ### Visual
-- 📊 **Count of Each Sentiment (incl. NEUTRAL/null)**
+- **Count of Each Sentiment (incl. NEUTRAL/null)**
 ![image](https://github.com/user-attachments/assets/47e40d9b-40c3-4843-9a95-f6becad6fe18)
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 ```bash
 pip install pandas matplotlib seaborn openai-whisper transformers torchaudio mediapy opencv-python
