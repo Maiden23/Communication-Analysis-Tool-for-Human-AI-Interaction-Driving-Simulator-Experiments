@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 
 
-This tool analyzes speech-based communication in driving simulator experiments. It converts video to audio, transcribes speech, performs sentiment analysis, and visualizes the emotional distribution. It’s designed to help understand how AI can interpret and respond to human emotions in driving simulations.
+This code analyzes speech-based communication in driving simulator experiments. Which converts video to audio, transcribes speech, performs sentiment analysis , and visualizes the emotional distribution. It’s designed to help understand how AI can interpret and respond to human emotions in driving simulations.
 
 ---
 
